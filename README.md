@@ -26,7 +26,6 @@ I'm a passionate developer crafting code for the next generation of web and mobi
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevSeyed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/DevSeyed)
 [![GitHub](https://img.shields.io/badge/GitHub-DevSeyed-lightgrey?style=flat-square&logo=github)](https://www.github.com/DevSeyed)
 
 ### ☕️ Support My Work
